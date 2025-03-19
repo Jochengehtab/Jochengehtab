@@ -2,7 +2,7 @@
 
 My name is Jochengehtab
 
-I am a C++ and Java coder
+I am a C++ and Java developer
 
 My current main project:
 <br>
